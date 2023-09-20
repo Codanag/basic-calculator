@@ -1,0 +1,16 @@
+input[type="number"] {
+    display: block;
+    margin: 5px 5px 10px 0px;
+}
+
+button{
+    background-color: blue;
+    color: #fff;
+    margin: 5px 5px 10px 0px;
+
+}
+
+.hideBtn{
+    display: none;
+}
+
